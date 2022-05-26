@@ -1001,7 +1001,7 @@ var Selection = /*#__PURE__*/ (function () {
               _this2._handleInitialEvent
             )
           }
-        ) // const removeTouchStartListener = addEventListener('touchstart', (e) => {
+        ) // const removeTouchStartListener = addEventListener('touchstart', e => {
         //   this._removeInitialEventListener()
         //   this._removeInitialEventListener = this._addLongPressListener(
         //     this._handleInitialEvent,

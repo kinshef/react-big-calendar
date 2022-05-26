@@ -24,7 +24,7 @@
     }
   },
   "react-big-calendar.js": {
-    "bundled": 1583173,
+    "bundled": 1583171,
     "minified": 444898,
     "gzipped": 137407
   },
@@ -34,7 +34,7 @@
     "gzipped": 88816
   },
   "react-big-calendar.esm.js": {
-    "bundled": 199425,
+    "bundled": 199423,
     "minified": 92862,
     "gzipped": 24091,
     "treeshaked": {
